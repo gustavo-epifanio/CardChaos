@@ -28,7 +28,7 @@ Jokers introduce a special mechanic that can affect the opponent's score.
 
 - [ ] Create and shuffle the 38-card deck.
 - [ ] Deal cards to two players.
-- [ ] Implement elemental advantages and numerical comparisons.
+- [x] Implement elemental advantages and numerical comparisons.
 - [ ] Track scores separately for each element.
 - [ ] Implement the special Joker rules.
 - [ ] Add round progression and victory conditions.
